@@ -1,0 +1,6 @@
+
+
+1. importar bases de datos
+2. abrir proyecto desde:  http://localhost/ProyectoCRUd_Fruteria/index.php
+
+
